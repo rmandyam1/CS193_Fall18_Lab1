@@ -1,4 +1,4 @@
-#Ramya Mandyam Anandampullai's first CS193 Lab
+# Ramya Mandyam Anandampullai's first CS193 Lab
 
 ### Favourite Things About Purdue:
 - Weird Traditions
