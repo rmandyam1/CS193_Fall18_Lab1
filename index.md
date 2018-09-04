@@ -1,19 +1,30 @@
-## Welcome to GitHub Pages
+#Ramya Mandyam Anandampullai's first CS193 Lab
+
+### Favourite Things About Purdue:
+- Weird Traditions
+- Corec Building
+- Ford Dining Court
+- Career Fairs
+- So many free resources!
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+###Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
-Syntax highlighted code block
+
 
 # Header 1
 ## Header 2
 ### Header 3
+
+
+
+# Hello!
 
 - Bulleted
 - List
